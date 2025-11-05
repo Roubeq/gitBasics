@@ -1,0 +1,3 @@
+[submodule "numericalMethods"]
+	path = numericalMethods
+	url = https://github.com/Roubeq/numericalMethods.git
